@@ -1,4 +1,4 @@
-# Reply98 Team
+## ❌️⭕️ Reply98 Team
 
 <div align="center" style="max-width:68rem;">
 <table>
@@ -11,7 +11,7 @@
 </table>
 </div>
 
-### Install the infrastructure
+### ⚙️ Install the infrastructure
 For install the infrastructure:
 ```bash
 python -m virtualenv venv
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ```
 
-### For train the agent
+### 🎯️ For train the agent
 For train the agent, run:
 ```bash
 python3 trainQlearning.py
@@ -28,7 +28,7 @@ python3 trainQlearning.py
 
 You can modify the hyperparams and the amount of episodes in the *trainQlearning.py* file.
 
-### Testing the solution against MinMax:
+### 🆚️ Testing the solution against MinMax:
 For see the agent playing against the MinMax agent, run:
 ```bash
 python3 tictac.py
